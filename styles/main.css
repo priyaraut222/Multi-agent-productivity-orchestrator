@@ -1,0 +1,7 @@
+.block-container { padding-top: 2rem; max-width: 1200px; }
+.timeline-slot { border-left: 4px solid #6366f1; background: rgba(99,102,241,.08); padding: .5rem .8rem; margin: .35rem 0; border-radius: 0 .5rem .5rem 0; }
+.timeline-slot.fixed { border-left-color: #ef4444; background: rgba(239,68,68,.08); }
+.timeline-slot .t { font-weight: 600; font-variant-numeric: tabular-nums; }
+.timeline-slot .r { opacity: .7; font-size: .85rem; }
+.kanban-card { border: 1px solid rgba(128,128,128,.25); border-radius: .6rem; padding: .55rem .7rem; margin-bottom: .5rem; }
+.pill { display:inline-block; padding: 0 .5rem; border-radius: 1rem; font-size: .75rem; background: rgba(99,102,241,.15); margin-right:.3rem; }

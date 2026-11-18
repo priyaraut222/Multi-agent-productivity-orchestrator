@@ -1,0 +1,14 @@
+# --- UI ---
+streamlit>=1.36
+# --- core (all free / open source) ---
+requests>=2.31
+python-dotenv>=1.0
+cryptography>=42.0
+python-dateutil>=2.8
+# --- integrations ---
+ddgs>=9.0                       # DuckDuckGo search (no API key)
+google-auth>=2.29
+google-auth-oauthlib>=1.2
+google-api-python-client>=2.120
+# --- optional ---
+streamlit-calendar>=1.2         # month-grid calendar view (the app falls back to an agenda list without it)
